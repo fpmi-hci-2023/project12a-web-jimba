@@ -38,7 +38,7 @@ export default class ErrorPage extends Component {
                                 to="/"
                                 role="button">
                                 Go to Home
-                            </NavLink>
+                </NavLink>
                         </div>
                     </div>
                 </section>
